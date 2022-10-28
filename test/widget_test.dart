@@ -90,6 +90,17 @@ void main() {
   var n = hitungnilai2(mapel1: 50, mapel2: 2);
   print(n);
   var o = hitungnilai3(79, 100);
+
+  //final keyboard => imutable / tidak bisa di rubah
+  //const final
+  //const
+  //const String mahasiswa = "baban";
+  //final
+  final String mahasiswafk;
+
+  mahasiswafk = "baban";
+
+  print(mahasiswafk);
 }
 
 //function
