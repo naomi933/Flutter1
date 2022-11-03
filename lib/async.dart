@@ -1,5 +1,5 @@
 void main() async {
-   func1();
+  func1();
 //   await func4(60).then(
 //     (value) {
 //       print(value);
@@ -18,7 +18,7 @@ void main() async {
     print(error);
     print("error");
   }
-  
+
   func2();
   func3();
 }
